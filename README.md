@@ -1,2 +1,2 @@
 # ml-mipt
-Redirect to the new repository
+The repository has moved and is available at https://github.com/girafe-ai/ml-mipt
